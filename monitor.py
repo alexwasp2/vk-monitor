@@ -8,7 +8,7 @@ TG_BOT_TOKEN = "8658569719:AAFiz1x8onKgNFR9ZfRHifq2N4fFd22Dw3c"
 TG_CHAT_ID = "404047781"
 VK_GROUP = "blackrussiayakutsk"
 CHECK_INTERVAL = 300
-KEYWORDS = ["продам", "продаю", "куплю", "покупаю", "цена", "продаётся", "лот", "торг"]
+KEYWORDS = ["продам", "продаю", "продаётся", "продан", "sell", "селл", "сел", "сэлл", "продажа", "отдам", "селю", "сэлю", "на продажу"]
 LAST_POST_FILE = "last_post_id.json"
 
 def load_last_post_id():
